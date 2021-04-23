@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+}
+.menu{
+    width: 1200px;
+    height: 50px;
+}
+.color1{
+    background-color: maroon;
+}
+.color2{
+    background-color: cyan ;
+    height: 40px;
+}
+header{
+    width: 1200px;
+    height: 200px;
+    background-color: orange;
+}
+main{
+    width: 1200px;
+    height: 400px;
+    background-color: yellowgreen;
+    display: flex;
+    box-sizing: border-box;
+}
+footer{
+    width: 1200px;
+    height: 40px;
+    background-color: blue;
+}
+.cuadro1{
+    width: 400px;
+    height: 400px;
+    background-color:greenyellow;
+}.cuadro2{
+    width: 400px;
+    height: 400px;
+    background-color:yellow;
+}.cuadro3{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
